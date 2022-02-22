@@ -6,11 +6,11 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(smile-Regula.woff)
+      src: url(ChocolateteehaypaiTEST.woff)
     }
     @font-face{
       font-family: myFont2;
-      src: url(ChocolateteehaypaiTEST.woff)
+      src: url(smile-Regula.woff)
     }
     #font1{
 	font-family: myFont1;
